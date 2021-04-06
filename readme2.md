@@ -13,3 +13,22 @@
 - Guntur
 - Andhra Pradesh
 - India
+- **Intermediate**
+- sri chaitanya 
+- guntur
+- ap,india
+- ***SSC***
+- LOYOLA PUBLIC SCHOOL
+- BOARD OF ICSE 
+- NALLAPADU,GUNTUR
+- ANDHRA PRADESH
+- **** SKILLS
+- C programming
+- JAVA
+- python
+- Django
+- *** goal
+- Software developer in 'Python'
+- C language
+- JAVA
+- 
